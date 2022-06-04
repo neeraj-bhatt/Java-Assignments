@@ -2,9 +2,14 @@
 
 public class PracQues1{
     public static void main(String args[]){
-        int a = Integer.parseInt(args[0]);
-        int b = Integer.parseInt(args[1]);
-        int sum = a + b;
+        int i = 0, sum = 0;
+        while(i < args.length)
+        {
+            int val = Integer.parseInt(args[i]);
+            sum = sum + val;
+            i++;
+        }
+
         System.out.println("Sum is " + sum);
     }
 }
