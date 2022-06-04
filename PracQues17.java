@@ -1,6 +1,8 @@
+//Practical Question - 17
+
 import Protection.*;
 
-public interface Protection {
+public interface PracQues17 {
     public static void main(String args[]) {
         Protect2package p2 = new Protect2package();
         Protect2package p1 = new Protect2package();

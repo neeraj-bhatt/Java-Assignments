@@ -1,6 +1,8 @@
+//Practical Question - 6
+
 import java.util.Scanner;
 
-public class PrimeChk{
+public class PracQues6{
     public static void main(String args[]) 
     {
         Scanner sc = new Scanner(System.in);

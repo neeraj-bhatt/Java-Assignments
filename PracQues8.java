@@ -1,4 +1,6 @@
-public class StringProg {
+//Practical Question - 8
+
+public class PracQues8 {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("Coffee");
         StringBuilder stbr = new StringBuilder("Hello this is Java");

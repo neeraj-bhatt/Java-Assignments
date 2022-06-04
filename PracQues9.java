@@ -1,3 +1,5 @@
+//Practical Question - 9
+
 import java.util.Scanner;
 class Distance{
     int feet, inches;
@@ -12,7 +14,7 @@ class Distance{
         System.out.println("Distance in inches = " + inches);
     }
 }
-public class Dist
+public class PracQues9
 {
     public static void main(String args[])
     {

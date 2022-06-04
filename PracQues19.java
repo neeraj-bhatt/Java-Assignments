@@ -1,4 +1,6 @@
-public class Ques19 {
+//Practical Question - 19
+
+public class PracQues19 {
 
 	// main method
 	public static void main(String args[])

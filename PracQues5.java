@@ -1,6 +1,7 @@
+//Practical Question - 5
 
 import java.util.Scanner;
-public class DecToBinary
+public class PracQues5
 {
     static void conversion(int n)
     {

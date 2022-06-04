@@ -1,3 +1,5 @@
+//Practical Question - 12
+
 class Distance {
 
     public int feet, inches;
@@ -27,7 +29,7 @@ class Distance {
     }
   }
   
-  public class Ques12 {
+  public class PracQues12 {
   
     public static void main(String args[]) {
   

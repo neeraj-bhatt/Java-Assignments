@@ -1,7 +1,9 @@
+//Practical Question - 28
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-class Keyboard_Event implements KeyListener,ActionListener
+class PracQues28 implements KeyListener,ActionListener
 {
     static JFrame frame;
     static JTextField output;
@@ -26,7 +28,7 @@ class Keyboard_Event implements KeyListener,ActionListener
         exit.setBounds(220,200,60,30);
         frame.add(exit);
         //Create an object of the class
-        Keyboard_Event obj=new Keyboard_Event();
+        PracQues28 obj=new PracQues28();
         //Associate KeyListener with input
         input.addKeyListener(obj);
         //Associate ActionListener with exit

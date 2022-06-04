@@ -1,4 +1,6 @@
-public class Ques13 {
+//Practical Question - 13
+
+public class PracQues13 {
 	// A method that takes variable
 	// number of integer arguments.
 	static void fun(int... a)

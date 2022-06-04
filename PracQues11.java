@@ -1,5 +1,7 @@
+//Practical Question - 11
+
 import java.util.Scanner;
-public class TypeConv {
+public class PracQues11 {
     public static void tConvo(int a)
     {
         System.out.println("Type converted to int - " + a);

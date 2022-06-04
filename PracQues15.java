@@ -1,5 +1,7 @@
+//Practical Question - 15
+
 import MultiFile.MultiFilePackage;
-public class MultiFile {
+public class PracQues15 {
     public static void main(String args[])
     {
         MultiFilePackage p1 = new MultiFilePackage();

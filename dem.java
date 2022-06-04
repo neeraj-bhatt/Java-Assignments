@@ -1,3 +1,5 @@
+//demo running
+
 import java.io.*;    
 import java.net.*;    
 public class dem {    
@@ -12,4 +14,4 @@ System.out.print((char)i);
 }    
 }catch(Exception e){System.out.println(e);}    
 }    
-}   
+}

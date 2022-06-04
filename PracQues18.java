@@ -1,6 +1,8 @@
+//Practical Question - 18
+
 import java.util.Scanner;
 import java.lang.ArithmeticException;
-public class DivideByZero {
+public class PracQues18 {
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);

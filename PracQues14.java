@@ -1,5 +1,6 @@
+//Practical Question - 14
 
-class Ques14 {
+class PracQues14 {
     public static void main(String args[])
     {
         //Boxing of Object

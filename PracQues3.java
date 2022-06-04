@@ -1,3 +1,5 @@
+//Practical Question - 3
+
 class Array {
 
 	private int arr[];
@@ -33,7 +35,7 @@ class Array {
 	}
 }
 
-public class Ques3 {
+public class PracQues3 {
 
 	public static void main(String[] args)
 	{

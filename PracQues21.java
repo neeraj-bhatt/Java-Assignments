@@ -1,5 +1,7 @@
+//Practical Question - 21
+
 import java.lang.*;
-public class MultiThreads extends Thread {
+public class PracQues21 extends Thread {
 
 	// Method 1
 	// run() method for the thread that is called
@@ -13,9 +15,9 @@ public class MultiThreads extends Thread {
 	{
 		// Creating random threads
 		// with the help of above class
-		MultiThreads t1 = new MultiThreads();
-		MultiThreads t2 = new MultiThreads();
-		MultiThreads t3 = new MultiThreads();
+		PracQues21 t1 = new PracQues21();
+		PracQues21 t2 = new PracQues21();
+		PracQues21 t3 = new PracQues21();
 
 		// Thread 1
 		// Display the priority of above thread

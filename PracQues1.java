@@ -1,4 +1,6 @@
-public class Add{
+//Practical Question - 1
+
+public class PracQues1{
     public static void main(String args[]){
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);

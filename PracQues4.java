@@ -1,8 +1,10 @@
+//Practical Question - 4
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
  
-public class Ques4 {
+public class PracQues4 {
         public static void main(String[] args) {
                 List<int[]> values = new ArrayList<int[]>();
                 values.add(new int[] { 1, 2, 3 });

@@ -1,5 +1,7 @@
+//Practical Question - 7
+
 import java.util.Scanner;
-public class Ques7 {
+public class PracQues7 {
     public static void main(String args[])
     {
         int i = 0, sum = 0;
