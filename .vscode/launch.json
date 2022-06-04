@@ -1,0 +1,129 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+        {
+            "type": "java",
+            "name": "Launch Ques7",
+            "request": "launch",
+            "mainClass": "Ques7",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecToBinary",
+            "request": "launch",
+            "mainClass": "DecToBinary",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dist",
+            "request": "launch",
+            "mainClass": "Dist",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivideByZero",
+            "request": "launch",
+            "mainClass": "DivideByZero",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiFile",
+            "request": "launch",
+            "mainClass": "MultiFile",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeChk",
+            "request": "launch",
+            "mainClass": "PrimeChk",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Protection",
+            "request": "launch",
+            "mainClass": "Protection",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ques14",
+            "request": "launch",
+            "mainClass": "Ques14",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ques3",
+            "request": "launch",
+            "mainClass": "Ques3",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringProg",
+            "request": "launch",
+            "mainClass": "StringProg",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConv",
+            "request": "launch",
+            "mainClass": "TypeConv",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "java",
+            "name": "Launch dem",
+            "request": "launch",
+            "mainClass": "dem",
+            "projectName": "java_course_ad4c4cbf"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug App",
+            "program": "${workspaceFolder}/main.js",
+            "args": ["arg1", "arg2", "arg3"]
+        }
+        
+    ]
+}
